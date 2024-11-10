@@ -116,6 +116,3 @@ public class BasicBranch {
 	}
 }
 
-/*
-I started by adding a Dead class, that randomly kills a certain percentage of branches that are just BasicBranch, and also some branches that are trips, by returning done = true in the update to stop the branch from spawning more. I also added a Knots class to have cherry blossoms randomly bloom on some of the trips, using a fillOval in the draw. Finally, in the draw of BasicBranch, 
-*/
